@@ -31,7 +31,7 @@
     "gulp-header": "*",
     "gulp-uglify": "*",
     "gulp-util": "*",
-    "mocha": "*",
+    "mocha": ">=3.5.0",
     "should": "*",
     "vinyl-buffer": "*",
     "vinyl-source-stream": "*"
